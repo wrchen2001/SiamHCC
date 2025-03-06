@@ -41,19 +41,19 @@ The HCCE dataset consists of 3,000 handwritten images of 200 distinct Chinese ch
 ## 4. Training
 Download the HCCE dataset and extract it to the project root directory. Ensure the dataset is organized in the following structure:
 
-  SiamHCC
-  ├── HCCE
-  │   ├── s0
-  │   │   ├── 1.bmp
-  │   │   ├── 2.bmp
-  │   │   ├── ...
-  │   │   └── 15.bmp
-  │   ├── s1
-  │   ├── ...
-  │   └── s199
-  ├── train.py
-  └── test.py
-  └── ...
+    SiamHCC
+    ├── HCCE
+    │   ├── s0
+    │   │   ├── 1.bmp
+    │   │   ├── 2.bmp
+    │   │   ├── ...
+    │   │   └── 15.bmp
+    │   ├── s1
+    │   ├── ...
+    │   └── s199
+    ├── train.py
+    ├── test.py
+    └── ...
 
 Run the training script:
 
