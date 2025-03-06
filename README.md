@@ -30,8 +30,9 @@ The model receives a target character and a corresponding template character to 
 ### 3.1. Introduction
 The HCCE dataset consists of 3,000 handwritten images of 200 distinct Chinese characters. The characters, which include both simple and complex ones, were selected from the kevindkai dataset. The dataset was curated through a quality assessment process conducted by 21 individuals with professional calligraphy training. For each character, 15 high-quality images were selected based on average quality scores. The images in the dataset were converted to BMP format for consistency and easier processing.
 
-![](/Paper_IMG/Dataset_example.png)
-
+<div style="text-align:center">
+    <img src="/Paper_IMG/Dataset_example.png" alt="Dataset_example">
+</div>
 
 ### 3.2. Download
 
