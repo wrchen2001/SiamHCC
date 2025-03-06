@@ -16,6 +16,9 @@ Automatic quality evaluation of handwritten Chinese characters aims to accuratel
 ![](/Paper_IMG/mainmodel.png)
 </p>
 
+| ![](/Paper_IMG/mainmodel.png) |
+|:----------------------------:|
+
 The model receives a target character and a corresponding template character to generate the final evaluation result.
 
 ## 2. Usage
