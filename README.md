@@ -9,12 +9,14 @@ Automatic quality evaluation of handwritten Chinese characters aims to accuratel
 
 ![](/Paper_IMG/mainmodel.png)
 
-The model receives several style reference characters (from the target style) and content characters (from the source font) to generate style-transformed characters.
+The model receives a target character and a corresponding template character to generate the final evaluation result.
 
 # Usage
 ## Dependencies
-
-
+>python >= 3.8  
+>torch >= 1.10.0  
+>torchvision >= 0.11.0  
+>opencv-python >= 4.8.0.76 
 
 
 
