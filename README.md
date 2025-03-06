@@ -26,7 +26,11 @@ The model receives a target character and a corresponding template character to 
 
 ## 3. HCCE dataset
 ### 3.1. Introduction
+The HCCE dataset consists of 3,000 handwritten images of 200 distinct Chinese characters. The characters, which include both simple and complex ones, were selected from the kevindkai dataset. The dataset was curated through a quality assessment process conducted by 21 individuals with professional calligraphy training. For each character, 15 high-quality images were selected based on average quality scores. The images in the dataset were converted to BMP format for consistency and easier processing.
 
+  <div align=center>
+    ![](/Paper_IMG/Dataset_example.png)
+  </div>
 
 ### 3.2. Download
 
@@ -35,9 +39,17 @@ The model receives a target character and a corresponding template character to 
   | HCCE | [Google Drive](https://drive.google.com/file/d/188NskMGmKBs2fjeg15PeRvn8rqmlqCNH/view?usp=drive_link) | [Baidu Yun](https://pan.baidu.com/s/13oOMwngLhHSlo7TrPHRXcw?pwd=wt5s) |
 
 
+## 4. Training
 
-## 4. License
+
+## 5. Test
+
+
+## 6. License
 - The repository is released under the [MIT license](LICENSE).
+
+## 7. Acknowledgment
+- We sincerely thank all the constructors of the 17 datasets used in Union14M, and also the developers of MMOCR.
 
 
 
