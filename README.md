@@ -78,7 +78,7 @@ To save the comparison result as an image:
 - The repository is released under the [MIT license](LICENSE).
 
 ## 7. Acknowledgment
-- We sincerely thank all the constructors of the 17 datasets used in Union14M, and also the developers of MMOCR.
+- We would like to express our sincere gratitude to our collaborators for their invaluable contributions and support throughout this project, to the creators of the HCCE dataset for providing high-quality handwritten Chinese character samples, and to the reviewers for their insightful feedback and suggestions, which greatly improved the quality of this work.
 
 
 
