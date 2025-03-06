@@ -63,7 +63,7 @@ Model checkpoints will be saved to "weights/".
 
 ## 5. Test
 
-Before testing, ensure you have: (1) A trained model weights file (e.g., custom_weights.pth); (2) Two images to compare (in .png or .jpg format).
+Before testing, ensure you have: (1) A trained model weights file (e.g., SiamHCC.pkl); (2) Two images to compare (in .png or .jpg format).
 
 To test the model with two images:
 
