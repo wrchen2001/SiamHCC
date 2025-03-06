@@ -44,8 +44,10 @@ The HCCE dataset consists of 3,000 handwritten images of 200 distinct Chinese ch
 
   > HCCE  
   > |--| s0  
-  > |&#8195; --| kaiti4train_VAE  
-  > |&#8195; &#8195; --| train_3000.png  
+  > |&#8195; --| 1.bmp
+  > |&#8195; --| 2.bmp
+  > |&#8195; --| ...
+  > |&#8195; --| 15.bmp  
   > |&#8195; &#8195; --| ...  
   > |&#8195; --| kaiti4val_VAE  
   > |&#8195; &#8195; --| val_500.png  
