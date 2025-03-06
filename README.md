@@ -30,9 +30,9 @@ The model receives a target character and a corresponding template character to 
 
 ### 3.2. Download
 
-  | Dataset Name                               | One Drive                                                              | Baidu Yun                                                             |
+  | Dataset Name                               | Google Drive                                                              | Baidu Yun                                                             |
   | -------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------- |
-  | HCCE | [GoogleDrive](https://drive.google.com/file/d/188NskMGmKBs2fjeg15PeRvn8rqmlqCNH/view?usp=drive_link) | [Baidu Yun](https://pan.baidu.com/s/13oOMwngLhHSlo7TrPHRXcw?pwd=wt5s) |
+  | HCCE | [Google Drive](https://drive.google.com/file/d/188NskMGmKBs2fjeg15PeRvn8rqmlqCNH/view?usp=drive_link) | [Baidu Yun](https://pan.baidu.com/s/13oOMwngLhHSlo7TrPHRXcw?pwd=wt5s) |
 
 
 
