@@ -41,6 +41,31 @@ The HCCE dataset consists of 3,000 handwritten images of 200 distinct Chinese ch
 ## 4. Training
 
 
+  >  
+  > |--| content  
+  > |&#8195; --| kaiti4train_VAE  
+  > |&#8195; &#8195; --| train_3000.png  
+  > |&#8195; &#8195; --| ...  
+  > |&#8195; --| kaiti4val_VAE  
+  > |&#8195; &#8195; --| val_500.png  
+  > |&#8195; &#8195; --| ...  
+  > |&#8195; --| kaiti4train_FFG  
+  > |&#8195; &#8195; --| trian_val_3500.png  
+  > |&#8195; &#8195; --| ...  
+  > |--| train  
+  > |&#8195; --| train_font1  
+  > |&#8195; --| train_font2  
+  > |&#8195; &#8195; --| trian_val_3500.png   
+  > |&#8195; &#8195; --| ...  
+  > |&#8195; --| ...  
+  > |--| val  
+  > |&#8195; --| val_font1  
+  > |&#8195; --| val_font2  
+  > |&#8195; &#8195; --| trian_val_3500.png    
+  > |&#8195; &#8195; --| ...  
+  > |&#8195; --| ...  
+
+
 ## 5. Test
 
 
