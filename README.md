@@ -75,10 +75,10 @@ To save the comparison result as an image:
     python test.py --img1 path/to/first.png --img2 path/to/second.png --weights path/to/weights.pth --output result.png
 
 ## 6. License
-- The repository is released under the [MIT license](LICENSE).
+The repository is released under the [MIT license](LICENSE).
 
 ## 7. Acknowledgment
-- We would like to express our sincere gratitude to our collaborators for their invaluable contributions and support throughout this project, to the creators of the HCCE dataset for providing high-quality handwritten Chinese character samples, and to the reviewers for their insightful feedback and suggestions, which greatly improved the quality of this work.
+We would like to express our sincere gratitude to our collaborators for their invaluable contributions and support throughout this project, to the creators of the HCCE dataset for providing high-quality handwritten Chinese character samples, and to the reviewers for their insightful feedback and suggestions, which greatly improved the quality of this work.
 
 
 
