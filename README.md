@@ -63,6 +63,16 @@ Model checkpoints will be saved to "weights/".
 
 ## 5. Test
 
+Before testing, ensure you have: (1) A trained model weights file (e.g., custom_weights.pth); (2) Two images to compare (in .png or .jpg format).
+
+To test the model with two images:
+
+    python test.py --img1 path/to/first.png --img2 path/to/second.png --weights path/to/weights.pth
+
+
+To save the comparison result as an image:
+
+    python test.py --img1 x.png --img2 y.png --weights path/to/weights.pth --output result.png
 
 ## 6. License
 - The repository is released under the [MIT license](LICENSE).
