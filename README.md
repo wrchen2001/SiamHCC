@@ -36,6 +36,10 @@ The model receives a target character and a corresponding template character to 
 
 
 
+## 4. License
+- The repository is released under the [MIT license](LICENSE).
+
+
 
 
 
