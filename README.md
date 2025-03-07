@@ -79,7 +79,7 @@ For handwritten Chinese character recognition task, please refer to my other rep
 The repository is released under the [MIT license](LICENSE).
 
 ## 7. Acknowledgment
-We would like to express our sincere gratitude to our collaborators for their invaluable contributions and support throughout this project, to the creators of the HCCE dataset for providing high-quality handwritten Chinese character samples, and to the reviewers for their insightful feedback and suggestions, which greatly improved the quality of this work.
+We would like to express our sincere gratitude to our collaborators for their valuable supports throughout this project, to the creators of the HCCE dataset for providing high-quality handwritten Chinese character samples, and to the reviewers for their insightful feedback and suggestions, which greatly improved the quality of this work.
 
 
 
