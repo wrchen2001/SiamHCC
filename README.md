@@ -16,8 +16,7 @@ Automatic quality evaluation of handwritten Chinese characters aims to accuratel
 
 The model receives a target character and a corresponding template character to generate the final evaluation result.
 
-## 2. Usage
-### 2.1. Dependencies
+## 2. Dependencies
 >python >= 3.8  
 >torch >= 1.10.0  
 >torchvision >= 0.11.0  
@@ -74,11 +73,14 @@ To save the comparison result as an image:
 
     python test.py --img1 path/to/first.png --img2 path/to/second.png --weights path/to/weights.pth --output result.png
 
+For handwritten Chinese character recognition task, please refer to my other repository [Handwritten Chinese character recognition based on MobileNetV3](https://github.com/wrchen2001/Handwritten_Chinese_character_recognition_based_on_MobileNetV3).
+
 ## 6. License
 The repository is released under the [MIT license](LICENSE).
 
 ## 7. Acknowledgment
 We would like to express our sincere gratitude to our collaborators for their invaluable contributions and support throughout this project, to the creators of the HCCE dataset for providing high-quality handwritten Chinese character samples, and to the reviewers for their insightful feedback and suggestions, which greatly improved the quality of this work.
+
 
 
 
