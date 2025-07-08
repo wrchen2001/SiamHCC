@@ -6,6 +6,8 @@
 
 Official Pytorch Implementation of "SiamHCC: a novel siamese network for quality evaluation of handwritten Chinese characters" by Weiran Chen, Guiqian Zhu, Ying Li, Yi Ji, and Chunping Liu*.
 
+Paper can be found at [here](https://link.springer.com/article/10.1007/s00530-025-01886-3).
+
 Our method is based on [Siamese Network](https://arxiv.org/abs/2011.10566), so we named our evaluation method **SiamHCC**.
 
 ## 1. Abstract 
@@ -80,6 +82,22 @@ The repository is released under the [MIT license](LICENSE).
 
 ## 7. Acknowledgment
 We would like to express our sincere gratitude to our collaborators for their valuable supports throughout this project, to the creators of the HCCE dataset for providing high-quality handwritten Chinese character samples, and to the reviewers for their insightful feedback and suggestions, which greatly improved the quality of this work.
+
+## 8. Citation
+If you find the code or paper helpful, please consider citing our paper.
+```
+@article{Chen_2025_MS,
+    author    = {Weiran Chen and Guiqian Zhu and Ying Li and Yi Ji and Chunping Liu},
+    title     = {SiamHCC: a novel siamese network for quality evaluation of handwritten Chinese characters},
+    journal      = {Multim. Syst.},
+    volume       = {31},
+    number       = {303},
+    pages        = {1--16},
+    year         = {2025},
+    doi          = {10.1007/s00530-025-01886-3}
+}
+```
+
 
 
 
